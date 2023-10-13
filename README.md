@@ -1,7 +1,7 @@
 
 <p>👨‍🎓 Técnico em Informática</p>
 <p>📚 Engenharia de Software</p>
-Estudante Full Stack tecnologias: Java, Spring, Angular e JS
+Estudante Full Stack tecnologias: Java, Spring, PrimeFaces, Angular e JS
 
 ##
 
