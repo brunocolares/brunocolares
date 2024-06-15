@@ -1,8 +1,3 @@
-
-<p>👨‍🎓 Técnico em Informática</p>
-<p>📚 Engenharia de Software</p>
-Estudante Full Stack tecnologias: Java, Spring, PrimeFaces, Angular e JS
-
 ##
 
 <a href="https://github.com/brunocolares/github-readme-stats">
